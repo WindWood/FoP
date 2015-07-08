@@ -4,7 +4,7 @@
 ### 记事本 (Notepad)
 
 ## 推荐
-### Notepad++
+### [Notepad++](notepadplusplus.md)
 ### EditPlus
 
 ## Vim
