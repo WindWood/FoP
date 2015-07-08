@@ -5,5 +5,6 @@
    * Method
 * [第二篇 编程工具](chapter2.md)
    * Git
+   * Notepad++
 * [第三篇 不插电的计算机](chapter3.md)
 
