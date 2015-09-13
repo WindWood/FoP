@@ -8,5 +8,6 @@
    * [Git](git.md)
    * [Notepad++](notepadplusplus.md)
    * VIM.md
+   * JetBrains.md
 * [第三篇 不插电的计算机](chapter3.md)
 
