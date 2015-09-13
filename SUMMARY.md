@@ -7,5 +7,6 @@
    * [文本编辑器](text-editor.md)
    * [Git](git.md)
    * [Notepad++](notepadplusplus.md)
+   * VIM.md
 * [第三篇 不插电的计算机](chapter3.md)
 
