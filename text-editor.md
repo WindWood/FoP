@@ -6,6 +6,6 @@
 ## 推荐
 ### [Notepad++](notepadplusplus.md)
 ### EditPlus
+### [Vim](VIM.md)
 
-## Vim
 
