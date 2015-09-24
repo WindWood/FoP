@@ -4,6 +4,7 @@
 * [第一篇 计算思维](chapter1.md)
    * 什么是编程
    * 编程方法
+   * [实验1 编程初探——Blockly Games](experiment1.md)
 * [第二篇 编程工具](chapter2.md)
    * [文本编辑器](text-editor.md)
    * [Git](git.md)
